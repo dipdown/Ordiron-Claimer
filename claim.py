@@ -2,7 +2,7 @@ import requests
 import time
 from bs4 import BeautifulSoup
 
-print("\nAuto Claim with Looping Every 60 Minutes\n")
+print("\nAuto Claim with Looping Every 1 Hour\n")
 username = input("Username\t: ")
 sessionid = input("Cookie\t: ")
 print("\nBot Running!")
