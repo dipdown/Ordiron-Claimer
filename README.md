@@ -9,3 +9,4 @@
 - git clone https://github.com/dipdown/Ordiron-Claimer.git
 - cd Ordiron-Claimer
 - pip install requests
+- python3 claim.py or task.py
