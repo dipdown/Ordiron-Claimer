@@ -6,6 +6,6 @@
 
 ## Usage
 
-- git clone https://github.com/AirDropFamilyIDN/OrdironAutoClaim.git
+- git clone https://github.com/dipdown/Ordiron-Claimer.git
 - cd Ordiron-Claimer
 - pip install requests
